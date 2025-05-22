@@ -3,10 +3,9 @@
 <h4 align="center">📊 Apaixonado por explorar padrões, criar dashboards interativos e transformar números em decisões estratégicas. Acredito que dados bem analisados são a chave para o sucesso de qualquer negócio. 
 <h4 align="center">💡 "Os dados contam histórias. A análise certa os transforma em conhecimento poderoso!" 
 <h3 align="center">🚀 Habilidades: 
-<h4 align="left">✔️ Análise de Dados (Excel, SQL, Python, Power BI) </h4>
-<h4 align="left">✔️ Visualização de Dados (Power BI, Tableau, Matplotlib, Seaborn) </h4>
-<h4 align="left">✔️ Manipulação de Dados (Pandas, NumPy, SQL) </h4>
-<h4 align="left">✔️ Modelagem Estatística e Machine Learning (Scikit-Learn) </h4>
+<h4 align="left">✔️ Análise de Dados (Excel, SQL, Power BI) </h4>
+<h4 align="left">✔️ Visualização de Dados (Power BI) </h4>
+<h4 align="left">✔️ Manipulação de Dados (SQL) </h4>
 <h4 align="left">📈 Atualmente, estou focado em desenvolver projetos práticos de análise de dados e Business Intelligence (BI) para aprimorar minhas habilidades e construir um portfólio impactante. </h4>
 <h4 align="left">📬 Vamos nos conectar? Me chama para trocar ideias sobre dados, tecnologia e novas oportunidades! 🚀</h4>
 
